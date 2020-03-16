@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: darkslategrey;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 48px;
+}
+h2  
+{
+    padding-left: 30px;
+    font-size: 24px;
+}
+h3
+{
+    padding-right: 100px;
+    font-style: italic;
+}
+h4
+{
+    font-size: 18px;
+}
+h5
+{
+    color: darkorange;
+    font-size: 18px;
+}
+h6
+{
+    background-color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h7
+{
+    color: deeppink;
+    font-family: cursive;
+}
+h8
+{
+    margin: 0;
+    padding: 15px;
+    border: 2px darkblue;
+}
+
+h9
+{
+    padding-right: 50px;
+    border-bottom: black;
+}
+h10
+{
+    font-size: 72px;
+    color: white;
+    border-bottom: black;
+}
+h11 
+{
+    font-family: cursive;
+}
+h12
+{
+    font-style: italic;
+    font-size: 12px;
+}
+h13
+{
+    font-weight: lighter;
+    font-stretch: condensed;
+}
+h14
+{
+    font-variant: small-caps;
+}
+h15
+{
+    background-color: white;
+}
+h16
+{
+    color: white;
+    background-color: black;
+}
+h17
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h18
+{
+    font-style: italic;
+    font-weight: bold;
+}
+h19
+{
+    color: darkorange;
+    background-color: black;
+}
+h20
+{
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h21
+{
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+h22
+{padding-top: 2px;}
+h23
+{padding-bottom: 15px;
+color: black;}
